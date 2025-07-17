@@ -1,4 +1,4 @@
-# PythonAttendan
+# Seating Arrangement For Exam
 
 Task 1 : Design a Python code for seating arrangement for exam
 Task 2:  Design a class wise attendance sheet based on the above. You know that attendance sheet in the exam contains your roll, name, sign in excel format. At the bottom there should be 5 rows and two cols for signatures of invigilator and tas. Just make 5 rows 2 cols blank in the attendance file. The file should be renamed like: [use in_4 for roll name mapping]
